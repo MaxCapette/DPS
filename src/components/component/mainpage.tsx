@@ -23,6 +23,7 @@ To read more about using these font, please visit the Next.js documentation:
 - App Directory: https://nextjs.org/docs/app/building-your-application/optimizing/fonts
 - Pages Directory: https://nextjs.org/docs/pages/building-your-application/optimizing/fonts
 **/
+
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { SheetTrigger, SheetContent, Sheet } from "@/components/ui/sheet"
@@ -257,6 +258,7 @@ export function Mainpage() {
           <p className="text-gray-600 dark:text-gray-400 md:mt-0"> Tous droits réservés.</p>
           <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">3 AVENUE JEANNE GARNERIN</p>
           <p className="text-gray-600 dark:text-gray-400  md:mt-0">91320 WISSOUS</p>
+          <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">contact@divine-pay-systems.fr</p>
           <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">TEL: 01 85 10 03 72</p>
         </div>
       </footer>
