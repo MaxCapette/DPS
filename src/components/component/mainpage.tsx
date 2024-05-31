@@ -253,9 +253,10 @@ export function Mainpage() {
       </main>
       <footer className="bg-gray-100 text-gray-900 py-8 dark:bg-gray-800 dark:text-white">
         <div className=" mx-auto px-4 md:px-6 flex flex-col md:flex-column items-center justify-between">
-          <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">© 2024 DIVINE PAY SYSTEMS. Tous droits réservés.</p>
+          <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">© 2024 DIVINE PAY SYSTEMS.</p>
+          <p className="text-gray-600 dark:text-gray-400 md:mt-0"> Tous droits réservés.</p>
           <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">3 AVENUE JEANNE GARNERIN</p>
-          <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">91320 WISSOUS</p>
+          <p className="text-gray-600 dark:text-gray-400  md:mt-0">91320 WISSOUS</p>
           <p className="text-gray-600 dark:text-gray-400 mt-4 md:mt-0">TEL: 01 85 10 03 72</p>
         </div>
       </footer>
