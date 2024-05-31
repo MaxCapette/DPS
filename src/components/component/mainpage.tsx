@@ -198,7 +198,7 @@ export function Mainpage() {
                     <UsersIcon className="h-8 w-8 text-gray-900 dark:text-gray-50" />
                     <h3 className="text-xl font-bold text-gray-900 dark:text-gray-50">Particuliers</h3>
                     <p className="text-gray-500 dark:text-gray-400">
-                      Vérification d'identité sécurisée pour un usage personnel.
+                      Vérification d&apos;identité sécurisée pour un usage personnel.
                     </p>
                   </div>
                 </div>
