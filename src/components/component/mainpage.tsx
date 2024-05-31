@@ -247,7 +247,7 @@ export function Mainpage() {
             </div>
           </div>
         </section>
-        <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-700 dark:bg-gray-800 flex flex-col items-center justify-center" id="contact">
+        <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-700 dark:bg-gray-800 flex flex-col items-center justify-center container" id="contact">
           <ContactPage />
         </section>
       </main>
